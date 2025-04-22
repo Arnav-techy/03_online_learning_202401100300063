@@ -5,3 +5,5 @@ By identifying key behavioral patterns from interaction data, institutions can i
 
 Algorithm Used: Random Forest Classifier
 Random Forest is an ensemble learning method used for classification and regression tasks. It builds multiple decision trees during training time and merges their results (votes) to improve accuracy and avoid overfitting.
+![Screenshot 2025-04-22 111100](https://github.com/user-attachments/assets/8bc282e5-3924-455a-9a13-601b66400e64)
+![Screenshot 2025-04-22 111026](https://github.com/user-attachments/assets/a5de2aff-fd97-4caf-a748-9bce7f444b64)
